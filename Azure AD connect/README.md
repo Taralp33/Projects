@@ -19,12 +19,12 @@ Objectives:
 
 Implement Microsoft Defender for advanced threat protection.
 ## Project Details
-- Services Used:
-  - Examples: Azure Entra ID, Azure Entra Connect, Azure VMs, Microsoft Intune, Microsoft Defender for Endpoint, Oracle VBOX, Windows VM, Server
+ Services Used:
+   Examples: Azure Entra ID, Azure Entra Connect, Azure VMs, Microsoft Intune, Microsoft Defender for Endpoint, Oracle VBOX, Windows VM, Server
               2019, UML. 
 
 ## Outcomes and Results
--Created a Fully integrated hybrid enterprise environment with SSO and  on the cloud and onboarded Onpremesis devices.
+Created a Fully integrated hybrid enterprise environment with SSO on the cloud and onboarded Onpremesis devices.
 
 ## Lessons Learned
 It's important to emphasize the need for thoroughly assessing system integration requirements and leveraging a variety of online resources to address challenges effectively. Troubleshooting connection issues often involves carefully examining system dependencies and their configurations to ensure seamless interoperability and functionality.
