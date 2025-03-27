@@ -17,7 +17,7 @@ Objectives:
 
 -Onboard devices to Intune for unified endpoint management.
 
-Implement Microsoft Defender for advanced threat protection.
+-Implement Microsoft Defender for advanced threat protection.
 ## Project Details
  Services Used:
    Examples: Azure Entra ID, Azure Entra Connect, Azure VMs, Microsoft Intune, Microsoft Defender for Endpoint, Oracle VBOX, Windows VM, Server
